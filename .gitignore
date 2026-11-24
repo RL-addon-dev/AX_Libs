@@ -1,0 +1,9 @@
+# Art scripts (not committed)
+AX_Settings/Art/Setting/make_split_button.py
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+__pycache__/

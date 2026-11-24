@@ -1,0 +1,5 @@
+# Left out of addon release zips when this repo is pulled in as an external.
+ignore:
+  - README.md
+  - AX_Settings/README.md
+  - AX_Settings/Examples
